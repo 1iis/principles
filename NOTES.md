@@ -11,13 +11,10 @@ This article is also WAY too long.
 
 I think I will:
 
-- make a much more atomic rendering of the concept in ethos.
+- make a much more atomic rendering of the concept in telos.
     - essentially the idea of minimalism to preserve your human RAM
     - similarly excellent for LLMs (even if we had "infinite" context)
 - extract the practical applications, and make that one or more articles in praxis.
     - existing H2 structure is probably a good start
-- there may be an addition to telos if it's not too redundant with ethos.
-    - minimalism isn't just a 
-
 
 
