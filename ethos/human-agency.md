@@ -13,7 +13,7 @@ LLM["🔵<br>LLM"]
 You --- Work --- LLM --- You
 ```
 
-There are three relations in this triangle: you with the work, the AI with the work, and you with the AI. The arching goal is to augment all of it (all entities, all relations), in such a way that it's not just the work that ends in a better place, it's also *you*. Which is the whole point of working. Evidently, this requires also bettering the AI as the angular piece of this system.
+There are three relations in this triangle: you with the work, the AI with the work, and you with the AI. The arching goal is to augment all of it (all entities, all relations), in such a way that it's not just the work that ends in a better place, it's also *you*. Which is the whole point of working. Evidently, this requires also bettering the AI as one angular piece of this system.
 
 The human+AI pair can achieve more than either alone. The LLM helps us where *we* are limited; conversely, we help it where *it* falls short. Each brings its own strengths, in service of the work or the other: a positive feedback loop, when A amplifies B which amplifies A…
 
