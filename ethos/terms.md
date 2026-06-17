@@ -18,6 +18,6 @@ Rather than dilute the meaning of existing terminology by stretching its meaning
 
 - We thus call **synth** a MACHINE with OPERATOR capability. This applies to computers, but also to robots, or any type of machine able to operate on its environment.
 - We embrace the ambiguity and use MACHINE for all that is not human: both computer and AI. The opposite concept might be PERSON.
-- Similarly, we use OPERATOR for all that controls a MACHINE: human or AI alike. The antonym might be ???
+- Similarly, we use OPERATOR for all that controls a MACHINE: human or AI alike. The antonym might be TARGET (layman), or SUBSTRATE, or OPERAND (academic). We usually default to TARGET.
 
 This *strongly* hints at the dual MACHINE-OPERATOR nature of synths.

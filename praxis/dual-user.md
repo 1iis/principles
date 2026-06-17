@@ -1,7 +1,8 @@
 # Dual User
-> AI 🔄 human synergy
+> Synth 🔄 Human
 
-A human+AI pair can achieve more than either alone. 
+A synth-human pair in synergy can achieve more than either alone.  
+The operative framing is proper separation for mutual augmentation.
 
 ## Synergy
 > Complementarity of alien parts

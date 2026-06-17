@@ -1,5 +1,5 @@
 # Human agency
-> AI is a lever that points where **you** point it: for instance, to help you level up!
+> AI is a lever that points where **you** point it.
 
 There is you, the work, and now the AI.
 
