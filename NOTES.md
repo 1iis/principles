@@ -16,5 +16,3 @@ I think I will:
     - similarly excellent for LLMs (even if we had "infinite" context)
 - extract the practical applications, and make that one or more articles in praxis.
     - existing H2 structure is probably a good start
-
-
