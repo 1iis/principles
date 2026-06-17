@@ -5,7 +5,7 @@ These ideas are left here as food for thought, or spoilers.
 
 ## Context discipline is telos
 
-"[Context discipline](praxis/context-discipline.md)" is an aspect of praxis, but it's not a mere empirical requirement. It's a general goal, though certainly instrumental not final: if you extend the notion of "context" to your own cognition, and admit that the less "noise" in your workspace, the better, then you see how context discipline *is* discipline, just good work.
+"[Context discipline](praxis/context-discipline.md)" is an aspect of praxis, but it's not a mere empirical requirement. It's a general goal, though certainly instrumental, not final: if you extend the notion of "context" to your own cognition, and admit that the less "noise" in your workspace, the better, then you see how context discipline *is* discipline, just good work.
 
 This article is also WAY too long.
 
