@@ -1,7 +1,7 @@
 # Compound capability
 > The work should make future work easier
 
-The win is not any single session. It is the infrastructure built over time.
+The win is not any single session. It is cognitive and technical, in the form of expertise encoded in foundations, built and strengthened over time.
 
 Each library we finish becomes a tool for the next project. Each narrow utility removes a little repeated pain. Each clear module gives us a place to stop, ship, and build from. Cumulative, compounding.
 
