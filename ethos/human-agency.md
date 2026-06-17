@@ -13,7 +13,7 @@ LLM["🔵<br>LLM"]
 You --- Work --- LLM --- You
 ```
 
-There are three relations in this triangle: you with the work, the AI with the work, and you with the AI. The arching goal is to augment all of it (all entities, all relations), in such a way that it's not just the work that ends in a better place, it's also *you*. Which is the whole point of working. Evidently, this requires also bettering the AI as one angular piece of this system.
+That's three relations: you with the work, the AI with the work, and you with the AI. The arching goal is to augment all of it (all entities, all relations), in such a way that it's not just the work that ends in a better place, it's also **you**. Which is the endgame of working. Evidently, this requires also bettering the AI as one angular piece of this system.
 
 The human+AI pair can achieve more than either alone. The LLM helps us where *we* are limited; conversely, we help it where *it* falls short. Each brings its own strengths, in service of the work, or the other in a positive feedback loop, when A amplifies B which amplifies A…
 
@@ -23,7 +23,7 @@ Roles are easy to identify within the shared cognitive space of an AI session.
 
 The desirable state of this asymmetric pair is synergy, complementarity. It's a blend, requiring some obedience of the machine to the operator, and some replacement of the operator by the machine. The important question is when, exactly, for which tasks. This is a Yin-Yang situation: the whole performs best when each part lends its own defining strengths to the other.
 
-In plain language: you want your LLM to be *cracked*, and there is no one else but you to *lift it up beyond its default baseline*. **You are the sole agency over the model** in your sessions. Including those you automate. If you do it well, then it will conversely *lift you up beyond your own baseline*. Which is the whole point of working with AI.
+In plain language: you want your LLM to be *cracked*, and there is no one else but you to *lift it up beyond its default baseline*. **You are the sole agency over the model** in your sessions. Including those you automate. If you do it well, then it will conversely *lift you up beyond your own baseline*. Which is the endgame of working *with AI*.
 
 To do it well is a recursive exercise, as you are engineering for outputs that you design to augment yourself. So you must begin by asking to yourself what you seek, what would best augment you right now, before engineering the input that will produce this desired result.
 
