@@ -1,21 +1,19 @@
 # Dual User
-> Synth 🔄 Human
+> Human 🔄 Model
 
-A synth-human pair in synergy can achieve more than either alone.  
-The operative framing is proper separation for mutual augmentation.
+A human-model pair, co-operating with synergy, can achieve more than either alone.  
+Synergy requires clear separation first, so each part can augment each other.
 
 ## Synergy
 > Complementarity of alien parts
 
-We seek a self-reinforcing positive feedback loop, when A amplifies B which amplifies A… Each brings its own defining strengths, either in service of the work, or of each other.
-- The AI helps us where *we* are limited.
-- Conversely, we help it where *it* falls short.
+The goal is a self-reinforcing positive feedback loop, where A amplifies B which amplifies A… Each bringing its own defining strengths, either in service of the work, or of the other.
 
-We call this **synergy**, which forms a Yin-Yang or double-helix type of back-and-forth dynamics. In practice, it is cumulative and [compounds][compound-capability]., in the iterative journey of working through a problem.
+We call this **synergy**. The dynamics are similar to a Yin-Yang or double-helix type of back-and-forth.
 
 ```mermaid
 ---
-title: AI-Operator Synergy
+title: Human-Model Synergy
 ---
 %%{init: {
   "theme": "dark",
@@ -27,13 +25,13 @@ title: AI-Operator Synergy
 graph
 subgraph bg[" "]
   direction TB
-    subgraph OP["OP (Operator)"]
+    subgraph OP["Human"]
     o1(("baseline<br>❤️"))
     o2(("Level UP!<br>❤️❤️"))
     o3(("Level UP!<br>❤️❤️❤️"))
     end
 
-    subgraph AI["AI (Machine)"]
+    subgraph model["Model"]
     m0{{"baseline<br><code>…"}}
     m1{{"Level UP!<br>💙"}}
     m2{{"Level UP!<br>💙💙"}}
@@ -50,7 +48,7 @@ subgraph bg[" "]
 
 end
     style OP fill:#000,stroke:#f336,stroke-width:1px,color:#f33;
-    style AI fill:#000,stroke:#39f7,stroke-width:1px,color:#39f;
+    style model fill:#000,stroke:#39f7,stroke-width:1px,color:#39f;
     style bg fill:#000
 
     style o1 fill:#000,stroke:#fff,color:#fff;
@@ -83,19 +81,21 @@ end
 ## Separation
 > In nature, and of concerns.
 
-The role of each part is easy to identify in its core features, and there is overlap thanks to NLP (natural language processing). It's harder to differentiate at the interface between the two: you learn it with practice.
+The role of each part is easy to identify in its core features, and there is overlap thanks to NLP (natural language processing). It's harder to differentiate at the interface between the two: you learn, with practice, what to do yourself and what to defer to the LLM. It's bad to generalize to broadly, but for the sake of orientation, here are exclusive qualities (by extension, lacking in the other).
 
 - The **human** brings preferences and moral decisions.  
-    - E.g. goals, values, direction, real-world context, adjustment, evaluation and judgment.
-    - As a physical and mortal being, humans know valid real-world consequences, architecture, feelings, …
+    - E.g. goals, values, direction, real-world context, adjustment, evaluation, judgment.
+    - As a physical and mortal being, the human knows valid real-world consequences, architecture, feelings; it needs to survive (eat, sleep, …), to work (pay the bills, grow), to learn, and to love (people and things).
 
-- The **AI** handles raw information.
+- The **model** handles raw information at scale.
     - E.g. persistence, logic, pseudosemantics, for differentiation, arrangement, automation.
-    - As a digital and virtual system, AI within its boundaries is stateless, indefatiguable, unburdened by difficulty or scale, …
+    - As a digital and virtual system, the model operates orders of magnitude faster, on bigger targets, with much better precision; it is immortal, indefatiguable, packed with knowledge, and amotional.
 
-It's a blend, where both meet in some common language (NLP or code). To function properly, requires some obedience of the AI to the human, and some replacement of the human by the AI. The important question is when, exactly, for which tasks.
+It's a blend, where both meet in some common language (NLP or code). To function properly, requires some obedience of the model to the human, and some replacement of the human by the model. The important question is when, exactly, for which tasks.
 
 ## Augmentation
+
+When separation is done right (to each their role), the model may augment human agency above its baseline, by contributing with super-human capabilities. Conversely, the human supplies super-machine capabilities, augmenting the model. The human-model pair becomes more than the sum of its parts, a [dual entity][dual-entity] of sorts. That is the endgame of augmented human agency: model, with its synthetic agency, works *with* us, not just *for* us.
 
 To do it well is a self-reflexive exercise, as you design outputs whose purpose is to augment yourself. So you must begin by asking to yourself what you seek, what would best augment you right now, before engineering the input that will produce this desired result.
 
@@ -104,10 +104,11 @@ To do it well is a self-reflexive exercise, as you design outputs whose purpose 
 >
 > You are the sole driver of your own experience, the sole responsible human present to steer the session.
 
-An LLM is a lever. It applies force in whichever direction we choose. So choose well! Used poorly, it amplifies confusion, haste, indirection (you run, but in circles, lose yourself, and the plot). Used well, it helps us [compare possibilities][generated-buffet], sharpen intent, test assumptions, and move more deliberately toward [augmented theory-building][augmented-theory-building].
+An LLM is a lever. It applies force in whichever direction we choose. So choose well! Used poorly, it amplifies confusion, haste, indirection (you run, but in circles, lose yourself, and the plot). Used well, it helps us [compare possibilities][generated-buffet], sharpen intent, test assumptions, and move more deliberately toward [theory-building][augmented-theory-building].
 
-AI is a shift of skills, not a replacement for sound engineering principles, let alone thinking. The fundamentals stay. The skills reshape around them. The human part becomes more important, because we are directing more power. So we try to amplify ourselves first, not merely our output. Even if a piece of software eventually dies, our learning [compounds][compound-capability].
+model is a shift of skills, not a replacement for sound engineering principles, let alone thinking. Fundamentals stay. As humans, we are directing more power: so we try to better ourselves first, to aim better.
 
 [generated-buffet]: ../praxis/generated-buffet.md
 [augmented-theory-building]: ../telos/augmented-theory-building.md
 [compound-capability]: ../telos/compound-capability.md
+[dual-entity]: ../praxis/dual-user.md
