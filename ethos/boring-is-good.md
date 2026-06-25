@@ -12,6 +12,7 @@ We have little faith in a software process that requires LLMs for humans to unde
 Simple is hard. Complexity sneaks in through “just one more abstraction,” “just one more option,” “just one more layer.” We have to actively say no, and walk back when we must. This is why [composable boundaries][composable-boundaries] matter.
 
 A solution that requires less context to understand is usually a better solution. Ultimately, boring code serves [context discipline][context-discipline].
+
 [intelligible-systems]: ../telos/intelligible-systems.md
 [composable-boundaries]: ../praxis/composable-boundaries.md
 [context-discipline]: ../praxis/context-discipline.md
