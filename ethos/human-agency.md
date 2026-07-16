@@ -19,7 +19,7 @@ Evidently, this requires also bettering the AI as one angular piece of this syst
 To be clear: you want your AI to be *cracked*, and there is no one else but you to *lift it up beyond its default baseline* for your specific tasks. You are the sole agency **over** the model in your sessions (including those you automate through code: you decide the inputs).
 
 
-Even when pieces of software eventually dies, our learning [compounds][compound-capability].
+Even when pieces of software eventually die, our learning [compounds][compound-capability].
 
 [compound-capability]: ../telos/compound-capability.md
 [dual-entity]: ../praxis/dual-user.md
