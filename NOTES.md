@@ -16,3 +16,11 @@ I think I will:
     - similarly excellent for LLMs (even if we had "infinite" context)
 - extract the practical applications, and make that one or more articles in praxis.
     - existing H2 structure is probably a good start
+
+## Add
+
+- Peter Naur, "Programming as Theory Building"
+
+> In his seminal 1985 essay, Peter Naur argues that programming is not the production of source code but rather the activity of building a shared mental theory of the problem and its solution.  
+> This theory is a tacit, conceptual understanding held by the developers, which allows them to intelligently modify the system; source code and documentation are merely lossy, incomplete representations of this underlying mental construct.
+
