@@ -28,8 +28,6 @@ Used well, a synth compounds agency. The human sees more, compares better, tests
 
 This is what good tools have always done. They move the boundary of action without removing the operator. The good version does not make the human smaller. It makes the human more capable.
 
-The point is not merely better work.
-
 The point is better work by a better human.
 
 [compound-capability]: ../telos/compound-capability.md
