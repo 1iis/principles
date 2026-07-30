@@ -24,7 +24,7 @@ A synth may expand human agency, but it does not replace its source. It can tran
 
 Used poorly, a synth invites deferred agency: outsourced judgment, delegated skill, borrowed understanding. That does not merely risk worse work. It weakens the worker.
 
-Used well, a synth compounds agency. The human sees more, compares better, tests faster, acts wider, and returns stronger.
+Used well, a synth compounds agency. The human sees more, compares better, tests faster, acts wider, and returns stronger. Even when pieces of software eventually die, our learning [compounds][compound-capability].
 
 This is what good tools have always done. They move the boundary of action without removing the operator. The good version does not make the human smaller. It makes the human more capable.
 
