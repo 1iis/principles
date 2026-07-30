@@ -26,22 +26,24 @@ A machine can now occupy the operator role. It can call tools, write code, drive
 
 We call such a system a **synth**: a synthetic operator.
 
-> **A synth is  
+## Synth
+
+**A synth is  
 machine by kind,  
 operator by role.**
 
 This avoids stretching old words too far. A synth is not a person, not a user, not an assistant in the human sense, and not merely a passive tool. It is a machine with operator-capability.
 
 ```
-              OPERATOR
-    controls / acts through tools
-                  ↑
-                  |
-human  ←——————————+——————————→  synth
-biological        |             synthetic
-person            ↓             machine-agent
-               TARGET
-        acted on / transformed
+                   OPERATOR
+        controls / acts through tools
+                       ↑
+                       |
+     HUMAN  ←——————————+——————————→  SYNTH
+biological             |             synthetic
+    person             ↓             machine-agent
+                    TARGET
+             acted on / transformed
 ```
 
 So the basic vocabulary becomes:
@@ -64,3 +66,7 @@ The important split is therefore not human versus machine, nor user versus AI, b
 | world/file/system | target |
 
 A human and a synth can then form a compound operator: a human-synth pair, each contributing alien strengths to one shared course of action.
+
+## Concern
+
+[WIP]
